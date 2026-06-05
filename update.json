@@ -1,7 +1,6 @@
     {
-      "versionCode": 3,
-      "versionName": "1.0.1",
+      "versionCode": 4,
+      "versionName": "1.2.0-BETA",
       "apkUrl": "https://github.com/antonemarian/TahoLog-V1.0.0-Beta/releases",
-      "releaseNotes": "Actualizare sistem: profil utilizator și export îmbunătățit."
+      "releaseNotes": "Versiunea 1.2: Sistem nou de alarme (deșteptător), logica odihnă 13h/15h, profil utilizator și stabilitate îmbunătățită."
     }
-    
