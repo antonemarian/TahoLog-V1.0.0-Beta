@@ -1,2 +1,2 @@
-# TahoLog-V1.0.0-Beta
+# TahoLog-Apk
 Versiune 1.0.0 beta
