@@ -1,6 +1,6 @@
     {
-      "versionCode": 6,
-      "versionName": "1.3.0",
+      "versionCode": 7,
+      "versionName": "1.4.0",
       "apkUrl": "https://github.com/antonemarian/TahoLog-V1.0.0-Beta/releases",
-      "releaseNotes": "Versiunea 1.3.0: Comenzi Vocale RO (Hands-Free), Export CSV avansat pentru contabilitate (SAGA/REVISAL), detecție automată Muncă la oprire, prag inteligent de 10km/h pentru condus și design îmbunătățit pentru Alarme."
+      "releaseNotes": "Versiunea 1.4.0: Update masiv."
     }
