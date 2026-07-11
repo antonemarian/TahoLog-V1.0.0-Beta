@@ -1,11 +1,11 @@
     {
       "versionCode": 8,
-      "versionName": "1.5.0,
+      "versionName": "1.5.0,"
       "apkUrl": "https://github.com/antonemarian/TahoLog-V1.0.0-Beta/releases",
       "releaseNotes": "- Optimizare consum date: Sincronizare Cloud mult mai rapidă și eficientă.",
     "- Activare inteligentă GPS: Pornește locația telefonului cu un singur click direct din aplicație.",
     "- Liniște pe pauză: Alertele vocale se opresc automat după ce închizi ziua de lucru.",
     "- Afișaj îmbunătățit: Toți timpii sunt acum în format clar HH:mm.",
     "- Pictograme noi: Diferențiere vizuală între pauza scurtă (☕) și repausul zilnic (🛌).",
-    "- Stabilitate crescută în detectarea automată a condusului.""
+    "- Stabilitate crescută în detectarea automată a condusului."
     }
