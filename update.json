@@ -1,6 +1,6 @@
     {
-      "versionCode": 8,
-      "versionName": "1.5.0,"
+      "versionCode": 9,
+      "versionName": "1.6.0,"
       "apkUrl": "https://github.com/antonemarian/TahoLog-V1.0.0-Beta/releases",
       "releaseNotes": "- Optimizare consum date: Sincronizare Cloud mult mai rapidă și eficientă.",
     "- Activare inteligentă GPS: Pornește locația telefonului cu un singur click direct din aplicație.",
