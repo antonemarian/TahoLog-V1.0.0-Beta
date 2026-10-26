@@ -1,11 +1,6 @@
-    {
-      "versionCode": 9,
-      "versionName": "1.6.0,"
-      "apkUrl": "https://github.com/antonemarian/TahoLog-V1.0.0-Beta/releases",
-      "releaseNotes": "- Release v1.6.0: Centralizare Bluetooth & Stabilitate Mod Smart/Asist",
-    "- Activare inteligentă GPS: Pornește locația telefonului cu un singur click direct din aplicație.",
-    "- Liniște pe pauză: Alertele vocale se opresc automat după ce închizi ziua de lucru.",
-    "- Afișaj îmbunătățit: Toți timpii sunt acum în format clar HH:mm.",
-    "- Pictograme noi: Diferențiere vizuală între pauza scurtă (☕) și repausul zilnic (🛌).",
-    "- Stabilitate crescută în detectarea automată a condusului."
-    }
+{
+  "versionCode": 10,
+  "versionName": "1.8.0",
+  "apkUrl": "https://github.com/antonemarian/TahoLog-V1.0.0-Beta/releases",
+  "releaseNotes": "- Release v1.8.0: Modul Concediu, Optimizare Baterie OEM & Sincronizare Flotă\n- Mod Concediu de odihnă: Detectare automată la pauze peste 45h și raportare la dispecerat.\n- Setări Baterie Inteligenți (Samsung, Xiaomi, Huawei, Oppo, Vivo): Ghid direct și ghidaj pe butonul +.\n- Migrare automată 9h: Reajustarea inteligentă a bulinei de repaus redus la închiderea săptămânii.\n- Sincronizare Flotă: Câmpuri noi de stare zi activă (isDayActive) și repaus săptămânal (isWeeklyRest).\n- Locație robustă: Sistem de rezervă în 3 trepte pentru poziția camionului."
+}
